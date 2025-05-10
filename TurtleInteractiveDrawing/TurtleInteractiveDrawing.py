@@ -10,10 +10,10 @@ def turtle_forward():
     turtle_instance.forward(100)
 
 def rotate_angle_right():
-    turtle_instance.right(20)
+    turtle_instance.right(30)
 
 def rotate_angle_left():
-    turtle_instance.left(20)
+    turtle_instance.left(30)
 
 def clear_screen():
     turtle_instance.clear()
